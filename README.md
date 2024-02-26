@@ -1,4 +1,4 @@
-# Digital Health Technologies in neurology trials
+# Tracing Digital Therapeutics Research Across Medical Specialties: Evidence from ClinicalTrails.gov
 Files for the manuscript "Tracing Digital Therapeutics Research Across Medical Specialties: Evidence from ClinicalTrails.gov" (Masanneck and Stern, 2024). Read the [manuscript](TObeadded), which was published in XXX.
 
 ## Accessing the research data
